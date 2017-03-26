@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="hello_world">Alo Mundo</string>
+    <string name="titulo">Escreva o seu nome</string>
+    <string name="surpreenda_me">Me surpreenda</string>
+    <string name="sem_informacao">Sem Informação</string>
+</resources>
